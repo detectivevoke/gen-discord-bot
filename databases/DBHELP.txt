@@ -1,0 +1,1 @@
+databases will be added into here. Should be using guild ID

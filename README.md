@@ -3,4 +3,5 @@ This bot uses Guild ID to create databases. Works best hosted. Credits to me, to
 
 
 Endo likes men
+
 Give credits if you use - Add me @ Detective Voke#9732

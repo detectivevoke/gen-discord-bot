@@ -1,2 +1,2 @@
-# gen-discord-bot
-This Discord Bot is like a well known Gen Bot - You are able to add your own accounts, into your own database.
+# Discord Gen Bot - Coded by myself <3
+This bot uses Guild ID to create databases. Works best hosted. Credits to me, took a couple days to create. 
